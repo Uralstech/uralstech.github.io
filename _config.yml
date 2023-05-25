@@ -21,18 +21,22 @@
 title: Udayshankar Ravikumar
 email: info@uralstech.in
 description: >- # this means to ignore newlines until "baseurl:"
-  Chief Technology Officer at URAV ADVANCED LEARNING SYSTEMS PRIVATE LIMITED.
+  Udayshankar Ravikumar, PCAP and Chief Technology Officer at URAV ADVANCED LEARNING SYSTEMS PRIVATE LIMITED.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  Uralstech
-facebook_username:  Udayshankar R
-linkedin_username:  Udayshankar R
-youtube_username:  Urals Technologies
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+minima:
+  # Generate social links in footer.
+  social_links:
+    - { platform: facebook,       user_url: "https://www.facebook.com/100082467614963" }
+    - { platform: github,         user_url: "https://github.com/jekyll/Uralstech" }
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/udayshankar-ctourals/" }
+    - { platform: youtube,        user_url: "https://www.youtube.com/@uralstechnologies9017" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
