@@ -30,10 +30,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-facebook_username: "100082467614963"
 github_username: "Uralstech"
-linkedin_username: "udayshankar-ctourals"
-youtube_username: "@uralstechnologies9017"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
