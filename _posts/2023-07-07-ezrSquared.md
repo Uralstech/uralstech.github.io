@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "[PROJECT] The ezr² programming language"
 ---
 
 ## **Easy-to-learn and Practical Interpreted Programming Language for Beginners and Experts Alike**

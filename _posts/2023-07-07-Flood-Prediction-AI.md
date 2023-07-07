@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "[PROJECT] AI for Flood Prediction from Glacial Data"
 ---
 
 ## **AI for Flood Prediction from Glacial Data**

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "[PROJECT] ezr Malayalam"
 ---
 
 ## **Educative Programming Language with Malayalam Syntax**
