@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "[EXPERIMENT] Why AI won't replace programmers"
+tags: [experiment,kotlin,unity]
 ---
 
 Since the release of ChatGPT, I've been very interested in AI models like GPT 3.5 and GPT 4. I was wondering if I could make ChatGPT create an entire coding project like a plugin or app. Recently, I got a chance to try it out.
@@ -19,9 +20,13 @@ Because of the knowledge cut-off problem, I got a ChatGPT Plus subscription at $
 
 Also, GPT-4 has a 25-requests-per-3-hours limit, even though it is paid. I hit the limit quite a few times.
 
+![](../assets/img/2023-07-07-Coding-With-GPT/1.png)
+
 I sometimes encountered a bug where GPT-4 would infinitely repeat the same code in a reply. It starts writing the code, abruptly cuts off, says it will continue from that point, and repeats the process seemingly infinitely.
 
 If the code is too long, ChatGPT and GPT-4 stop, and a "Continue" button pop ups next to the "Regenerate" button. You will have to click the button to continue the code. One time, the button did not appear and GPT said:
+
+![](../assets/img/2023-07-07-Coding-With-GPT/2.png)
 
 When I sent the continue message, it did finish the code, but I found this strange.
 
@@ -30,5 +35,7 @@ I am convinced that AI will not replace programmers any time soon. The knowledge
 The plugin should work for things like basic IAPs and auto-renewing subscriptions, but I have not tested any of that. All I know is that it initializes and connects to the billing service. I have not tested any further. I stopped development (for now) as GPT could not code a solution for localized purchase validation (Unity IAP has this feature).
 
 I would like to thank JD_2020 for the free "Web Requests" plugin.
+
+![](../assets/img/2023-07-07-Coding-With-GPT/3.png)
 
 [![Play Billing v6 For Unity](https://img.shields.io/badge/Play_Billing_v6_For_Unity-black?style=for-the-badge&logo=github&color=FFFFFF&logoColor=000000)](https://github.com/Uralstech/Play-Billing-v6-For-Unity)
