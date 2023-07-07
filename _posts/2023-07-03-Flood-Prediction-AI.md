@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[PROJECT] AI for Flood Prediction from Glacial Data"
-tags: [project,python,ai]
+tags: [project,open-source,python,ai]
 ---
 
 A test AI for predicting floods using snow coverage in glaciers.

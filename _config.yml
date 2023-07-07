@@ -29,6 +29,9 @@ author: Udayshankar Ravikumar
 
 rss-description: RSS feed for my blog
 
+navbar-links:
+  My Company: "https://uralstech.in/"
+
 social-network-links:
   email: "uralstech@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom

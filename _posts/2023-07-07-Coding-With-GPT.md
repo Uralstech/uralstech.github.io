@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[EXPERIMENT] Why AI won't replace programmers"
-tags: [experiment,kotlin,unity]
+tags: [experiment,open-source,ai,kotlin,unity]
 ---
 
 Since the release of ChatGPT, I've been very interested in AI models like GPT 3.5 and GPT 4. I was wondering if I could make ChatGPT create an entire coding project like a plugin or app. Recently, I got a chance to try it out.

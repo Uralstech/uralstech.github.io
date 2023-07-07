@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[PROJECT] hAI! Friend: Your ideal AI friend who will always be with you!"
-tags: [project,unity]
+tags: [project,ai,app,unity]
 ---
 hAI! is your ideal AI friend who will always be with you! Take a picture or a selfie to create your friend's realistic avatar. Name and describe your friend's personalities. Tell your friend about yourself. Then, start chatting with the power of ChatGPT!
 
