@@ -1,1 +1,1 @@
-Hi! I'm **Udayshankar Ravikumar**, *PCAP* and *Chief Technology Officer* at [**URAV ADVANCED LEARNING SYSTEMS PRIVATE LIMITED**](https://uralstech.in/). This repository is for my website documentating all my achievements.
+Hi! I'm **Udayshankar Ravikumar**, *PCAP* and *Chief Technology Officer* at [**URAV ADVANCED LEARNING SYSTEMS PRIVATE LIMITED**](https://uralstech.in/). This repository is for my blog documentating all my work.

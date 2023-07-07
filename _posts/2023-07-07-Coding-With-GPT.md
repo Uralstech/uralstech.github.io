@@ -15,6 +15,6 @@ Yes, with the knowledge cutoff of ChatGPT, it was not able to get all the new fe
 
 Because of the knowledge cut-off problem, I got an OpenAI Plus subscription and got access to GPT-4 and some internet-searching plugins. Still, no luck. It gets the correct documentation pages for each feature but does not seem to remember the contents of the pages.
 
-Now, I am convinced that AI will not replace programmers any time soon. The knowledge cut-off is a big issue, especially for these types of tasks. I have stopped working on this experiment because of this. If anyone is interested in the code, the link to the GitHub repository is down below. 
+Now, I am convinced that AI will not replace programmers any time soon. The knowledge cut-off is a big issue, especially for these types of tasks. I have stopped working on this experiment because of this. If anyone is interested in the code, the link to the GitHub repository is down below.
 
 [![Play Billing v6 For Unity](https://img.shields.io/badge/Play_Billing_v6_For_Unity-black?style=for-the-badge&logo=github&color=FFFFFF&logoColor=000000)](https://github.com/Uralstech/Play-Billing-v6-For-Unity)
