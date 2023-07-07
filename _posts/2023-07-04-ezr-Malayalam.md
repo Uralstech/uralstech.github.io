@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[PROJECT] Educative Programming Language with Malayalam Syntax"
-tags: [project,open-source,python]
+tags: [Project,Open source,Python]
 ---
 
 ezr Malayalam is a basic programming language written in Malayalam meant to be easy to learn.
