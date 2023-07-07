@@ -7,12 +7,28 @@ Since the release of ChatGPT, I've been very interested in AI models like GPT 3.
 
 For one of my Unity projects, I needed the latest Google Play Billing Library (v6.0.1) for in app products. Unity's IAP solution only implemented the basics of v5. So, I thought, why not let ChatGPT create an Android native plugin which implements the latest version of the Google Play Billing Library? I could maybe even learn some Kotlin while doing so.
 
-I started by asked ChatGPT exactly what I wanted. No luck, "the code will be too long". I told it to create a Kotlin class to contain the native code. It made a simple Kotlin class. Then I took it through each feature which I needed to add to the plugin, and voila, I got a big Kotlin class which should... do something... Wait, what's that?! Deprecated functions?!
+I started by asked ChatGPT exactly what I wanted. No luck, "the code will be too long". I told it to create a Kotlin class to contain the native code. It made a simple Kotlin class. Then I took it through each feature which I needed to add to the plugin, and voila, I got a big Kotlin class which should do... something. Wait, what's that?! Warnings?! Deprecated functions?!
 
-Yes, with the knowledge cutoff of ChatGPT, it was not able to get all the new features of Billing v6.0.1 and created the Kotlin script using a few "deprecated" functions. I had to fix these manually.
+Yes, with the knowledge cutoff of ChatGPT, it was not able to get all the new features of Billing v6.0.1 and created the Kotlin script using a few deprecated functions. I had to fix these manually.
 
-Because of the knowledge cut-off problem, I got an OpenAI Plus subscription and got access to GPT-4 and some internet-searching plugins. Still, no luck. It gets the correct documentation pages for each feature but does not seem to remember the contents of the pages.
+Next, I tried GitHub Copilot at $10 /month, but it's just a complex autocomplete program. Copilot X would definitely be better, so I cancelled the subscription. I'm still in the 30-day free trial period, so I didn't lose any money. Copilot and Copilot X are still, as advertised, just CO-pilots. Don't expect them to do everything for you. I do want to try Code GPT as someone suggested here but it will probably also suffer from the knowledge cutoff issue as it still uses GPT 3.5/4.
 
-Now, I am convinced that AI will not replace programmers any time soon. The knowledge cut-off is a big issue, especially for these types of tasks. I have stopped working on this experiment because of this. If anyone is interested in the code, the link to the GitHub repository is down below.
+Still, Copilot does make things much more convenient while writing code.
+
+Because of the knowledge cut-off problem, I got a ChatGPT Plus subscription at $20 /month and got access to GPT-4 and some internet-searching plugins. No luck. It gets the correct documentation pages for each feature but does not seem to remember the contents of the pages.
+
+Also, GPT-4 has a 25-requests-per-3-hours limit, even though it is paid. I hit the limit quite a few times.
+
+I sometimes encountered a bug where GPT-4 would infinitely repeat the same code in a reply. It starts writing the code, abruptly cuts off, says it will continue from that point, and repeats the process seemingly infinitely.
+
+If the code is too long, ChatGPT and GPT-4 stop, and a "Continue" button pop ups next to the "Regenerate" button. You will have to click the button to continue the code. One time, the button did not appear and GPT said:
+
+When I sent the continue message, it did finish the code, but I found this strange.
+
+I am convinced that AI will not replace programmers any time soon. The knowledge cut-off is a big issue, especially for these types of tasks. I have stopped working on this experiment because of this. If anyone is interested, a link to the GitHub repository is at the end of this post.
+
+The plugin should work for things like basic IAPs and auto-renewing subscriptions, but I have not tested any of that. All I know is that it initializes and connects to the billing service. I have not tested any further. I stopped development (for now) as GPT could not code a solution for localized purchase validation (Unity IAP has this feature).
+
+I would like to thank JD_2020 for the free "Web Requests" plugin.
 
 [![Play Billing v6 For Unity](https://img.shields.io/badge/Play_Billing_v6_For_Unity-black?style=for-the-badge&logo=github&color=FFFFFF&logoColor=000000)](https://github.com/Uralstech/Play-Billing-v6-For-Unity)
