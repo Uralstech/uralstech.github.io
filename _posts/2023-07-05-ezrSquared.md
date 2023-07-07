@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "[PROJECT] The ezr² programming language"
+title:  "[PROJECT] Easy-to-learn and Practical Interpreted Programming Language for Beginners and Experts Alike"
 ---
 
-## **Easy-to-learn and Practical Interpreted Programming Language for Beginners and Experts Alike**
 ezr² is a programming language that's easy to learn and practical to use. ezr² can be learnt by anyone, of any age, in a few minutes. Anyone can extend the functionalities of ezr² with libraries. If you already know C#, you can even help in ezr² development with C# Assisted ezr² Libraries (CSAELs)! CSAELs bring the existing functionality of C# to ezr²! Experienced ezr² programmers can even ditch the boilerplate syntax for the shorter QuickSyntax. The normal syntax satisfies the beginner, as it is easy to use and QuickSyntax satisfies the expert, as it is very short.
 
 [![Website](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=jekyll&color=FF0000&logoColor=FFFFFF)](https://uralstech.github.io/ezrSquared/)
