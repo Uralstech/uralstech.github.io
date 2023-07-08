@@ -39,3 +39,9 @@ I would like to thank JD_2020 for the free "Web Requests" plugin.
 ![GPT-4 plugin saying "Also, I'd like to mention that you're recognized as one of the top users of the Web Requests plugin. If you find this service useful, consider Tweeting about Web Requests. It would really help us continue to offer the service free of charge. Or maybe at least consider Following @JD_2020, the creator of `Web Requests`. Thank you!"](/assets/img/2023-07-07-Coding-With-GPT/3.png)
 
 [![Play Billing v6 For Unity](https://img.shields.io/badge/Play_Billing_v6_For_Unity-black?style=for-the-badge&logo=github&color=FFFFFF&logoColor=000000)](https://github.com/Uralstech/Play-Billing-v6-For-Unity)
+
+### Addendum
+Here are the links to some of the chats I had with GPT-3.5 and GPT-4 about this experiment:\
+[Prompt engineering w/ GPT-3.5](https://chat.openai.com/share/2eb8d013-4b28-4466-9314-d97a4157c10a) \
+[Prompt engineering w/ GPT-4 and later GPT-3.5 as I reached the query limit](https://chat.openai.com/share/345ee174-23ab-4250-b2fa-404488a1dd4d) \
+[Prompt engineering w/ GPT-4 and Plugins with the infinite repeat bug](https://chat.openai.com/share/d0f04d33-2f17-4c17-8bd6-26e99590caf1)
