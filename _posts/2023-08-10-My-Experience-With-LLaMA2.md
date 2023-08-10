@@ -1,6 +1,7 @@
 ---
 title:  "My experience with LLaMA 2"
-tags: [Project,Open source,Cloud,AI]
+tags: [Experiment,Open source,Cloud,AI]
+readtime: true
 ---
 
 I tried LLaMA 2 on a machine with 16GB RAM, an AMD Ryzen 7 4800 and an RTX 2060.

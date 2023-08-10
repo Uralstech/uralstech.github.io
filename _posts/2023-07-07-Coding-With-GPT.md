@@ -1,6 +1,9 @@
 ---
 title:  "Why AI won't replace programmers"
 tags: [Experiment,Open source,AI,Kotlin,Unity]
+gh-repo: Uralstech/Play-Billing-v6-For-Unity
+gh-badge: [star, watch, fork, follow]
+readtime: true
 ---
 
 Since the release of ChatGPT, I've been very interested in AI models like GPT 3.5 and GPT 4. I was wondering if I could make ChatGPT create an entire coding project like a plugin or app. Recently, I got a chance to try it out.

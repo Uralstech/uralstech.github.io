@@ -1,6 +1,8 @@
 ---
 title:  "AI for Flood Prediction from Glacial Data"
 tags: [Experiment,Open source,Python,AI]
+gh-repo: Uralstech/AI-Flood-Prediction-From-Glacial-Data
+gh-badge: [star, watch, fork, follow]
 ---
 
 A test AI for predicting floods using snow coverage in glaciers.
