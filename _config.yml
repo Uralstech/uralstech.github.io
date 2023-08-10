@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 author: Udayshankar Ravikumar
-markdown: GFM
+markdown: kramdown
 
 rss-description: RSS feed for my blog
 
@@ -49,7 +49,6 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
-  discord: true
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
