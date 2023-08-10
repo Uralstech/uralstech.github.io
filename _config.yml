@@ -49,6 +49,7 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  vk: false
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
