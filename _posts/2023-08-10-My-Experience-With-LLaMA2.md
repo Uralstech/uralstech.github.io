@@ -1,6 +1,5 @@
 ---
-layout: post
-title:  "[PROJECT] My experience with LLaMA 2"
+title:  "My experience with LLaMA 2"
 tags: [Project,Open source,Cloud,AI]
 ---
 

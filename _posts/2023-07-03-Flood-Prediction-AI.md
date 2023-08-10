@@ -1,6 +1,5 @@
 ---
-layout: post
-title:  "[EXPERIMENT] AI for Flood Prediction from Glacial Data"
+title:  "AI for Flood Prediction from Glacial Data"
 tags: [Experiment,Open source,Python,AI]
 ---
 

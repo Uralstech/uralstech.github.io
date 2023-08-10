@@ -1,6 +1,5 @@
 ---
-layout: post
-title:  "[EXPERIMENT] Why AI won't replace programmers"
+title:  "Why AI won't replace programmers"
 tags: [Experiment,Open source,AI,Kotlin,Unity]
 ---
 

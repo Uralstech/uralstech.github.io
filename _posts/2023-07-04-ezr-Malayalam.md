@@ -1,6 +1,5 @@
 ---
-layout: post
-title:  "[PROJECT] Educative Programming Language with Malayalam Syntax"
+title:  "Educative Programming Language with Malayalam Syntax"
 tags: [Project,Open source,Python]
 ---
 

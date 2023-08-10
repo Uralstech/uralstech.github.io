@@ -1,6 +1,5 @@
 ---
-layout: post
-title:  "[PROJECT] Easy-to-learn and Practical Interpreted Programming Language for Beginners and Experts Alike"
+title:  "Easy-to-learn and Practical Interpreted Programming Language for Beginners and Experts Alike"
 tags: [Project,Open source,CSharp]
 ---
 
