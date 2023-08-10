@@ -14,7 +14,7 @@ These are the models I ran:
 * llama-2-70b-chat.ggmlv3.q4_K_S.bin from [***TheBloke/Llama-2-70B-Chat-GGML***](https://huggingface.co/TheBloke/Llama-2-70B-Chat-GGML)
 
 LLaMA-2 70b did not work, I couldn't meet the RAM requirements - even using Google Cloud Run.
-Redmond Puffin also didn't work, and I don't know why. It might be because I used quant 4 and not being able to meet the requirements.
+Redmond Puffin also didn't work, and I don't know why. It might be because I used quant 4 and not being able to meet it's requirements.
 
 I used my own API/interface to communicate with these models through Docker. If anyone is interested, it's available here: <https://github.com/Uralstech/vid-orca>
 
