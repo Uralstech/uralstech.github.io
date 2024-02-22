@@ -1,5 +1,5 @@
 ---
-title:  "A development update for ezrSquared"
+title:  "A development update for ezr²"
 tags: [Project,Open source,CSharp]
 gh-repo: Uralstech/ezrSquared
 gh-badge: [star, watch, fork, follow]
