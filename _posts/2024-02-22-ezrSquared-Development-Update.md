@@ -12,7 +12,7 @@ What's been going on with ezr²?
 
 The interpreter. I've been making the interpreter. And fixing bugs. A lot of bugs.
 
-Okay - That's not completely `true`. I have added a ***ton*** of features.
+Okay - that's not completely `true`. I have added a ***ton*** of features.
 
 This dev update is to showcase all these features. They will be released under the [***ezrSquared-re branch***](https://github.com/Uralstech/ezrSquared/tree/ezrSquared-re) when they are completed.
 
