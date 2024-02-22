@@ -19,7 +19,7 @@ This dev update is to showcase all these features. They will be released under t
 ## Upcoming features for ezrSquared-re
 
 ### A Big One - Numbers With No Limits!
-YES!!! Integers now implement C#'s *BigInteger*, so you don't have to worry about the size of your numbers!
+Yes! Integers now implement C#'s *BigInteger*, so you don't have to worry about the size of your numbers!
 
 Floating points numbers now implement C#'s *double* now. So, higher range for floats!
 
@@ -45,13 +45,13 @@ static var_d: 27
 And of course, you can mix and match them all!
 (but you cannot have `global` and `private` together, duh)
 
-The same applies when defining functions and object-types!
+The same applies when defining `functions` and `object`-types!
 
-Static variables are assigned to the object-type's (or class's) context, which is seperate from the context of an instance of the class.
+`static` variables are assigned to the `object`-type's (or class's) context, which is seperate from the context of an instance of the class.
 
 ### Continuing From The Previous - Define Blocks!
 
-Tired of having to type `private` or `static` again and again? Put them in a define block!
+Tired of having to type `private` or `static` again and again? Put them in a `define` block!
 
 Syntax:
 ```ezrSquared
@@ -73,9 +73,9 @@ end
 
 ### Additions To Object-Types (Classes)!
 
-Now, you can have readonly or static classes!
+Now, you can have `readonly` or `static` classes!
 
-In a readonly class, no outside code can modify variables inside the class. Code in the class is still free to modify these variables.
+In a `readonly` class, no outside code can modify variables inside the class. Code in the class is still free to modify these variables.
 
 ```ezrSquared
 readonly object readonly_object do
@@ -83,7 +83,7 @@ readonly object readonly_object do
 end
 ```
 
-In a static class, well, all variables, function and nested object-types are static! And, you cannot create an instance of the class.
+In a `static` class, well, all variables, `function`s and nested classes are `static`! And, you cannot create an instance of the class.
 
 ```ezrSquared
 static object static_object do
@@ -93,7 +93,7 @@ end
 
 ### Keyword-Arguments For Functions!
 
-You can now provide infinite keyword-ed arguments to your functions/object initializers! They work just like in any other language.
+You can now provide infinite keyword arguments to your `function`s and object instance initializers! They work just like in any other language.
 
 ```ezrSquared
 function function_a with more as keyword_args do
@@ -101,11 +101,11 @@ function function_a with more as keyword_args do
 end
 ```
 
-In the above case, `keyword_args` would be a `dictionary`.
+In the above case, `keyword_args` would be a dictionary.
 
 ### A Whole Lot Of C# Wrappers!
 
-I've added better C# Source Wrappers, for CSAELS, and automatic C# Wrappers, which will wrap C# classes, functions, properties, fields, etc.
+I've added better C# Source Wrappers, for CSAELs, and automatic C# Wrappers, which will wrap C# classes, functions, properties, fields, etc.
 at runtime! The wrappers are also able to convert ezr² objects into primitives and vice-versa.
 
 This will be used in `include` expressions (which have not been implemented yet) to import C# libraries and DLLs which may not have been intended
@@ -170,11 +170,11 @@ Yes. There are breaking changes.
 
 ### Syntax Change For The Try-Error Expression (Now Try-Catch)
 
-Yes. I have changed the syntax of Try-Error expressions to Try-Catch.
+Yes. I have changed the syntax of `try`-`error` expressions to `try`-`catch`.
 
 ### Special Functions Are Gone
 
-They are now replaced with functions with pre-set names.
+They are now replaced with `function`s with pre-set names.
 
 For example, to implement the addition operation to your class, you now do this:
 ```ezrSquared
@@ -189,7 +189,7 @@ end
 
 Yeah. This can be both a positive and a negative. You can now write code more like sentences, by capitalizing letters in keywords, but, code
 that may use variable names like `Step` or `Item` will break (although you should not be naming variables like that anyways since ezr² follows
-**snake_case**).
+**snake_case** for variables).
 
 ## One Last Addition
 
