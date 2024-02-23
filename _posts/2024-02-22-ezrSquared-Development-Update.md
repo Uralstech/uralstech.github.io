@@ -68,6 +68,7 @@ end
 define static constant
     static_constant_a: 653
     static_constant_b: "sdf"
+    ...
 end
 ```
 
@@ -189,7 +190,7 @@ end
 
 Yeah. This can be both a positive and a negative. You can now write code more like sentences, by capitalizing letters in keywords, but, code
 that may use variable names like `Step` or `Item` will break (although you should not be naming variables like that anyways since ezr² follows
-**snake_case** for variables).
+**snake_case** for names).
 
 ## One Last Addition
 
