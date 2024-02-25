@@ -16,7 +16,8 @@ Okay - that's not completely `true`. I have added a ***ton*** of features.
 
 This dev update is to showcase all these features. They will be released under the [***ezrSquared-re branch***](https://github.com/Uralstech/ezrSquared/tree/ezrSquared-re) when they are completed.
 
-## Upcoming features for ezrSquared-re
+## Upcoming features for ezrSquared-re!
+Note: This article is now outdated. Please check more recent updates about changes coming to ezrSquared-re.
 
 ### A Big One - Numbers With No Limits!
 Yes! Integers now implement C#'s *BigInteger*, so you don't have to worry about the size of your numbers!
