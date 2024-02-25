@@ -39,7 +39,7 @@ Yeah.
 
 The function ***must*** be `constant` and, yes, it is now required if you have parameters for your classes.
 
-Even with that, I am not sure this will stick around. I plan to add something like this:
+Even with that, I am not sure the syntax will stick around. I plan to add something like this:
 
 ```ezrSquared
 object something_3 do
