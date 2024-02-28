@@ -191,7 +191,7 @@ By addressing the industry's critical pain points, hAI! Spec aims to have a last
 
 Utilized to script the identification and extraction of similar sections from different versions of aerospace standards. Also used for generating prompts that contributed to the training and validation dataset for hAI! Spec.
 
-##### LLaMA-2 (Large Language Model Meta AI):
+##### LLaMA-2 (Meta's Large Language Model):
 
 Served as the base model upon which hAI! Spec was trained. Crucial for understanding and generating content specific to the aerospace standards that hAI! Spec aims to optimize. 
 
