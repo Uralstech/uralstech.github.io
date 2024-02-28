@@ -41,6 +41,7 @@ The primary goal of hAI! Spec is to revolutionize the way technical requirements
 
 ##### TECHNOLOGY
 - Python
+
 > *Role:*<br/>
 > Scripting and Data Processing
 >
