@@ -68,6 +68,7 @@ The primary goal of hAI! Spec is to revolutionize the way technical requirements
 > Utilized for inferencing and merging the Language Learning Model (LLM) during the development phase.
 
 - HuggingFace AutoTrain Advanced
+
 > *Role:*<br/>
 > Model Training
 > 
@@ -101,6 +102,7 @@ Role: Training and deploying the LLM.
 > Flask is a lightweight and versatile web framework for Python. It handles the HTTP requests, file uploads, and serves as the backend for your web application.
 
 - (Website) Werkzeug:
+
 > *Role:*<br/>
 >  WSGI web application library
 > 
@@ -108,6 +110,7 @@ Role: Training and deploying the LLM.
 >  Werkzeug is a WSGI (Web Server Gateway Interface) utility library for Python. It is often used with Flask for handling HTTP requests and provides secure file upload functionalities.
 
 - (Website) HTML/CSS:
+
 > *Role:*<br/>
 > Styling the web application
 >
@@ -115,6 +118,7 @@ Role: Training and deploying the LLM.
 > Used for designing the user interface of your web application. HTML provides the structure, while CSS handles the styling of the elements.
 
 - (Website) JavaScript:
+
 > *Role:*<br/>
 > Client-side interactivity and asynchronous communication with the server
 > 
