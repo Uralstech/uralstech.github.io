@@ -26,7 +26,7 @@ end
 
 The above example may not look different to the existing way, but when you add parameters, you get:
 
-```ezrSquared
+```
 object something_2 with b, c do
     constant function initialize do
         this.b: b
