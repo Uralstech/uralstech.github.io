@@ -94,4 +94,4 @@ Also, classes will now be called classes, instead of 'object type'-s. But this i
 
 ## Conclusion
 
-Well, so that's it for this ezr² update. It was a another short one!
+Well, so that's it for this ezr² update. It was another short one!
