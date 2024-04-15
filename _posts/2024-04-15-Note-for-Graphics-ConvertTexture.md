@@ -22,21 +22,34 @@ Use `AsyncGPUReadback.RequestIntoNativeArray`. This is what I'm using to resize 
 // Don't forget to define texture, newWidth and newHeight.
 
 Texture2D scaled = new(newWidth, newHeight);
+
+// Convert the texture.
 Graphics.ConvertTexture(texture, scaled);
 
+// Create an array to store the texture.
 NativeArray<float> nativeArray = new(newWidth * newHeight * sizeof(float), Allocator.Persistent);
+
+// Start the operation to read the texture from the GPU.
 AsyncGPUReadbackRequest request = AsyncGPUReadback.RequestIntoNativeArray(ref nativeArray, scaled);
+
+// Wait till it's done.
 while (!request.done)
     await Task.Yield();
 
+// Check for errors.
 if (request.hasError)
 {
+    // Dispose the array.
     nativeArray.Dispose();
     return null;
 }
 
+// Load the texture.
 scaled.LoadRawTextureData(nativeArray);
+
+// Dispose the array.
 nativeArray.Dispose();
+
 return scaled;
 ```
 
