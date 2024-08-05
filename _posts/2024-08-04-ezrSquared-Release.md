@@ -8,6 +8,8 @@ readtime: true
 
 It's finally out! What I've been doing for all this time is OUT!
 
+![ezr² RE Logo](/assets/img/2024-08-04-ezrSquared-Release/ezrSquared RE.png)
+
 ## ezr² v0.1.0
 
 ezr² v0.1.0, the first kinda-working version of ezr² ***RE*** (REwrite) has been
