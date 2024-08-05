@@ -4,6 +4,7 @@ tags: [Project,Open source,CSharp]
 gh-repo: Uralstech/ezrSquared
 gh-badge: [star, watch, fork, follow]
 readtime: true
+thumbnail-img: /assets/img/2024-08-04-ezrSquared-Release/ezrSquared RE.png
 ---
 
 It's finally out! What I've been doing for all this time is OUT!
