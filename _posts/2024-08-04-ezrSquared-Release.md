@@ -22,7 +22,7 @@ I've also released reference documentation for the code that makes up ezr² ***R
 
 [![Online RefDocs](https://img.shields.io/badge/Online_RefDocs-black?style=for-the-badge&logo=github&color=FFFFFF&logoColor=000000)](https://uralstech.github.io/ezrSquaredRefDocs)
 
-Now, ezr² ***RE*** is still very incompete. Like, the `include` expression
+Now, ezr² ***RE*** is still very incomplete. Like, the `include` expression
 has not been added, none of the built-in object members like `"a string".length`
 or `["a", "list"].insert` have been implemented, none of the libraries have been updated, and so on.
 
