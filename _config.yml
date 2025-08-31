@@ -24,10 +24,6 @@ dash:
   animation_speed: 50
   rtl: false
 
-  # Disqus (optional – change this to your own shortname if needed)
-  disqus:
-    shortname: uralstech
-
   # Social Links (converted from Beautiful Jekyll format)
   social_links:
     - url: https://twitter.com/uralstechCTO
