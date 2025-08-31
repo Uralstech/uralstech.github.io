@@ -1,9 +1,9 @@
 # Site Info
 title: Udayshankar Ravikumar
 author: Udayshankar Ravikumar
-email: uralstech@gmail.com
+email: udayshankar.cto@uralstech.in
 description: > 
-  Hi! I'm Udayshankar Ravikumar, PCAP and Chief Technology Officer at [Urav Advanced Learning Systems Pvt Ltd](https://uralstech.in/). This blog is for documentating my open source work.
+  Hi! I'm Udayshankar Ravikumar, PCAP and Chief Technology Officer at Urav Advanced Learning Systems Pvt Ltd. This blog is for documentating my open source work.
 
 timezone: Asia/Kolkata
 show_excerpts: true
@@ -25,35 +25,26 @@ dash:
   animation_speed: 50
   rtl: false
 
-  # Social Links (converted from Beautiful Jekyll format)
+  # Social Links
   social_links:
     - url: https://twitter.com/uralstechCTO
-      icon: twitter-square
-      color: blue
-    - url: https://www.linkedin.com/in/udayshankar-ctourals
-      icon: linkedin
-      color: indigo
-    - url: https://github.com/Uralstech
-      icon: github-square
-      color: purple
-    - url: https://www.facebook.com/100082467614963
-      icon: facebook-square
-      color: blue
-    - url: https://www.reddit.com/user/uralstech_MR
-      icon: reddit
-      color: orange
+      icon: square-x-twitter
+      color: pink
     - url: https://www.youtube.com/@uralstechnologies9017
       icon: youtube-square
       color: red
-    - url: https://gitlab.com/Uralstech
-      icon: gitlab
+    - url: https://github.com/Uralstech
+      icon: github-square
+      color: purple
+    - url: https://www.linkedin.com/in/udayshankar-ctourals
+      icon: linkedin
+      color: blue
+    - url: https://www.reddit.com/user/uralstech_MR
+      icon: square-reddit
       color: orange
-    - url: https://www.hackerrank.com/Uralstech
-      icon: hackerrank
-      color: green
-    - url: mailto:uralstech@gmail.com
+    - url: mailto:udayshankar.cto@uralstech.in
       icon: envelope
-      color: gray
+      color: cyan
 
 # Build Settings
 theme: jekyll-dash
