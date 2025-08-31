@@ -1,7 +1,10 @@
 source "https://rubygems.org"
 
+gem "jekyll", "~> 4.3"
+gem "jekyll-dash"
+gem "jekyll-feed"
+gem "jekyll-seo-tag"
+gem "jekyll-paginate"
 gem "liquid-md5"
 gem "jekyll-tagging"
 gem "kramdown-parser-gfm"
-
-gemspec
