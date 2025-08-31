@@ -11,8 +11,6 @@ baseurl: "" # leave empty for GitHub Pages user site
 timezone: Asia/Kolkata
 
 show_excerpts: true
-paginate: 5
-paginate_path: "/blog/page:num/"
 tag_permalink_style: pretty
 tag_page_layout: tag_page
 tag_page_dir: tag
@@ -67,6 +65,7 @@ plugins:
 
 # Optional GitHub username (for GitHub avatar integration)
 github_username: Uralstech
+avatar_source: github
 
 # Optional: Exclude from build
 exclude:
