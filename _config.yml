@@ -5,19 +5,22 @@ email: uralstech@gmail.com
 description: > 
   Udayshankar Ravikumar, PCAP and Chief Technology Officer at URAV ADVANCED LEARNING SYSTEMS PRIVATE LIMITED.
 
-url: "https://uralstech.github.io"
-baseurl: "" # leave empty for GitHub Pages user site
-
 timezone: Asia/Kolkata
-
 show_excerpts: true
+
+url: "https://uralstech.github.io"
+
+# jekyll-paginate
+paginate: 5
+paginate_path: "/blog/page:num/"
+
 tag_permalink_style: pretty
 tag_page_layout: tag_page
 tag_page_dir: tag
 
 # Jekyll Dash Settings
 dash:
-  date_format: "%d/%m/%Y"  # Your original format
+  date_format: "%d/%m/%Y"
   show_author: true
   animation_speed: 50
   rtl: false
