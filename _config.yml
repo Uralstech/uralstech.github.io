@@ -93,7 +93,7 @@ plugins:
 
 github_username: "Uralstech"
 
-timezone: "India/Kolkata"
+timezone: Asia/Kolkata
 
 exclude:
   - README.md
