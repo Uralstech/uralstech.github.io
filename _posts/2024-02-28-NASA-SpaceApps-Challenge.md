@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "My submission for NASA's SpaceApps challenge (2023)"
 tags: [Project,AI,Challenge,Competition]
 gh-repo: Uralstech/hAI-Spec-NASA-SpaceApps-Challenge

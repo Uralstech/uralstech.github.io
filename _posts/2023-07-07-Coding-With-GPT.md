@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Why AI won't replace programmers"
 tags: [Experiment,Open source,AI,Kotlin,Unity]
 gh-repo: Uralstech/Play-Billing-v6-For-Unity

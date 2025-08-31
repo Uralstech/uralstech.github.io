@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Getting Started with the Quest Camera API"
 tags: [Project,Open source,Unity]
 gh-repo: Uralstech/UXR.QuestCamera

@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Note: Using Graphics.ConvertTexture"
 tags: [Unity, Note]
 ---

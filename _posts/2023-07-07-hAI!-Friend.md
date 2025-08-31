@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "hAI! Friend: Your ideal AI friend who will always be with you!"
 tags: [Project,AI,App,Unity]
 ---

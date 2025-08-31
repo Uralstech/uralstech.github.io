@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "UBhashini: Use the ULCA/Bhashini API in Unity!"
 tags: [Project,Open source,Unity]
 gh-repo: Uralstech/UBhashini

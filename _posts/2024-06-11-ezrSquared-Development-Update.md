@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "ezr² development update (Jun 12, 2024)"
 tags: [Project,Open source,CSharp]
 gh-repo: Uralstech/ezrSquared

@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "AI for Flood Prediction from Glacial Data"
 tags: [Experiment,Open source,Python,AI]
 gh-repo: Uralstech/AI-Flood-Prediction-From-Glacial-Data

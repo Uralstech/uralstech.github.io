@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "ezr² v0.1.0 HAS BEEN RELEASED!"
 tags: [Project,Open source,CSharp]
 gh-repo: Uralstech/ezrSquared

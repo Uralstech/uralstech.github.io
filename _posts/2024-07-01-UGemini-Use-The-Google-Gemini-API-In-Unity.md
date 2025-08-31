@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "UGemini: Use the Google Gemini API in Unity!"
 tags: [Project,Open source,Unity]
 gh-repo: Uralstech/UGemini

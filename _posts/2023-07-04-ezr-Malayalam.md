@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Educative Programming Language with Malayalam Syntax"
 tags: [Project,Open source,Python]
 gh-repo: Uralstech/ezrMlang

@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Native Sign-In and Sharing for Mobile in Unity!"
 tags: [Project,Open source,Unity]
 readtime: true

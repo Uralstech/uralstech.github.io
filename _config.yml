@@ -1,99 +1,77 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
+# Site Info
 title: Udayshankar Ravikumar
-description: >- # this means to ignore newlines until "baseurl:"
+author: Udayshankar Ravikumar
+email: uralstech@gmail.com
+description: > 
   Udayshankar Ravikumar, PCAP and Chief Technology Officer at URAV ADVANCED LEARNING SYSTEMS PRIVATE LIMITED.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
-author: Udayshankar Ravikumar
-
-rss-description: RSS feed for my blog
-
-navbar-links:
-  My Company: "https://uralstech.in/"
-
-social-network-links:
-  email: "uralstech@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: Uralstech
-  discord: "users/856445664372326400"
-  youtube: "@uralstechnologies9017"
-  reddit: uralstech_MR
-  twitter: uralstechCTO
-  facebook: "100082467614963"
-  linkedin: udayshankar-ctourals
-  gitlab: Uralstech
-  hackerrank: Uralstech
-
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
-
-# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
-
-# Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
-
-# Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
-
-# Add a search button to the navbar
-post_search: true
-
-# Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: false
-
-# Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
-# If this setting is off, then long sub-menu words might get cut off
-# See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
-navbar-var-length: false
-
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
-
-date_format: "%d/%m/%Y"
-
-# Build settings
-remote_theme: daattali/beautiful-jekyll@6.0.1
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-
-github_username: "Uralstech"
+url: "https://uralstech.github.io"
+baseurl: "" # leave empty for GitHub Pages user site
 
 timezone: Asia/Kolkata
 
+show_excerpts: true
+paginate: 5
+paginate_path: "/blog/page:num/"
+tag_permalink_style: pretty
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+# Jekyll Dash Settings
+dash:
+  date_format: "%d/%m/%Y"  # Your original format
+  show_author: true
+  animation_speed: 50
+  rtl: false
+
+  # Disqus (optional – change this to your own shortname if needed)
+  disqus:
+    shortname: uralstech
+
+  # Social Links (converted from Beautiful Jekyll format)
+  social_links:
+    - url: https://twitter.com/uralstechCTO
+      icon: twitter-square
+      color: blue
+    - url: https://www.linkedin.com/in/udayshankar-ctourals
+      icon: linkedin
+      color: indigo
+    - url: https://github.com/Uralstech
+      icon: github-square
+      color: purple
+    - url: https://www.facebook.com/100082467614963
+      icon: facebook-square
+      color: blue
+    - url: https://www.reddit.com/user/uralstech_MR
+      icon: reddit
+      color: orange
+    - url: https://www.youtube.com/@uralstechnologies9017
+      icon: youtube-square
+      color: red
+    - url: https://gitlab.com/Uralstech
+      icon: gitlab
+      color: orange
+    - url: https://www.hackerrank.com/Uralstech
+      icon: hackerrank
+      color: green
+    - url: mailto:uralstech@gmail.com
+      icon: envelope
+      color: gray
+
+# Build Settings
+theme: jekyll-dash
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - liquid-md5
+  - jekyll/tagging
+  - jekyll-sitemap
+
+# Optional GitHub username (for GitHub avatar integration)
+github_username: Uralstech
+
+# Optional: Exclude from build
 exclude:
   - README.md
