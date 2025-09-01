@@ -8,6 +8,7 @@ readtime: true
 ---
 
 What's been going on with ezr²?
+<!--more-->
 
 ### What I've Been Doing
 

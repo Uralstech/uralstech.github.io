@@ -8,6 +8,7 @@ readtime: false
 ---
 
 My new Unity package!
+<!--more-->
 
 ### Google Gemini
 

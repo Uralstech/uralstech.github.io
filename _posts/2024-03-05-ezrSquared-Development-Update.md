@@ -8,6 +8,7 @@ readtime: true
 ---
 
 Another (newer) development update for ezr²!
+<!--more-->
 
 ### What I've Been Doing
 

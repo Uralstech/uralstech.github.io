@@ -7,6 +7,7 @@ readtime: true
 
 Hey everyone! Check out my new Unity packages for Android and iOS!
 This was also my first time writing FOSS Swift code, and I had a blast doing it.
+<!--more-->
 
 ## UMoth
 

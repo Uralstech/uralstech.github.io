@@ -6,6 +6,7 @@ readtime: true
 ---
 
 I tried LLaMA 2 on a machine with 16GB RAM, an AMD Ryzen 7 4800 and an RTX 2060.
+<!--more-->
 
 These are the models I ran:
 * luna-ai-llama2-uncensored.ggmlv3.q4_K_S.bin from [***TheBloke/Luna-AI-Llama2-Uncensored-GGML***](https://huggingface.co/TheBloke/Luna-AI-Llama2-Uncensored-GGML)

@@ -9,6 +9,7 @@ thumbnail-img: /assets/img/2024-08-04-ezrSquared-Release/ezrSquared RE.png
 ---
 
 What's new in ezr² ***RE*** v0.1.2 (and v0.1.1)?
+<!--more-->
 
 ## ezr² v0.1.1
 

@@ -8,6 +8,7 @@ readtime: true
 ---
 
 About my submission for NASA's SpaceApps challenge.
+<!--more-->
 
 ### The Team
 

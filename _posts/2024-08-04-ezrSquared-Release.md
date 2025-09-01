@@ -9,6 +9,7 @@ thumbnail-img: /assets/img/2024-08-04-ezrSquared-Release/ezrSquared RE.png
 ---
 
 It's finally out! What I've been doing for all this time is OUT!
+<!--more-->
 
 ![ezr² RE Logo](/assets/img/2024-08-04-ezrSquared-Release/ezrSquared RE.png)
 

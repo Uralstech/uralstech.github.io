@@ -9,6 +9,7 @@ readtime: true
 
 This is a tutorial on how to use the Meta Quest Passthrough Camera API in Unity using my package, UXR.QuestCamera,
 which is available on GitHub and OpenUPM: <http://uralstech.github.io/UXR.QuestCamera/>
+<!--more-->
 
 ## Setup
 

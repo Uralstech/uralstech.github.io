@@ -8,6 +8,7 @@ readtime: true
 ---
 
 Since the release of ChatGPT, I've been very interested in AI models like GPT 3.5 and GPT 4. I was wondering if I could make ChatGPT create an entire coding project like a plugin or app. Recently, I got a chance to try it out.
+<!--more-->
 
 For one of my Unity projects, I needed the latest Google Play Billing Library (v6.0.1) for in app products. Unity's IAP solution only implemented the basics of v5. So, I thought, why not let ChatGPT create an Android native plugin which implements the latest version of the Google Play Billing Library? I could maybe even learn some Kotlin while doing so.
 
