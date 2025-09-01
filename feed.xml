@@ -17,7 +17,7 @@ layout: null
       <item>
         <title>{{ post.title | strip_html | xml_escape }}</title>
         <description>
-          {% if post.subtitle %}{{ post.subtitle | strip_html | xml_escape }} - {% endif %}
+          {% if post.subtitle %}{{ post.excerpt | xml_escape }} - {% endif %}
           {{ post.content | strip_html | xml_escape | truncatewords: excerpt_length }}
         </description>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
