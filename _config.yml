@@ -46,6 +46,10 @@ dash:
     - url: https://www.reddit.com/user/uralstech_MR
       icon: square-reddit
       color: orange
+    - url: https://uralstech.github.io/feed
+      icon: square-rss
+      color: cyan
+      fa: true
     - url: https://discord.com/users/856445664372326400
       icon: discord
       color: indigo
