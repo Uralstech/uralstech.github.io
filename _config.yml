@@ -3,7 +3,7 @@ title: Udayshankar Ravikumar
 author: Udayshankar Ravikumar
 email: udayshankar.cto@uralstech.in
 description: > 
-  Hi! I'm Udayshankar Ravikumar, PCAP and Chief Technology Officer at Urav Advanced Learning Systems Pvt Ltd. This blog is for documentating my open source work.
+  Hi! I'm Udayshankar Ravikumar, PCAP and Chief Technology Officer at <a href="https://uralstech.in/">Urav Advanced Learning Systems Pvt Ltd</a>. This blog is for documentating my open source work.
 
 timezone: Asia/Kolkata
 show_excerpts: true
@@ -43,12 +43,12 @@ dash:
     - url: https://www.linkedin.com/in/udayshankar-ctourals
       icon: linkedin
       color: blue
-    - url: https://discord.com/users/856445664372326400
-      icon: discord
-      color: indigo
     - url: https://www.reddit.com/user/uralstech_MR
       icon: square-reddit
       color: orange
+    - url: https://discord.com/users/856445664372326400
+      icon: discord
+      color: indigo
     - url: mailto:udayshankar.cto@uralstech.in
       icon: envelope
       color: teal
