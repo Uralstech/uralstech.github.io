@@ -1,0 +1,11 @@
+/*
+ * Fix for shields.io badges being too large
+ * in the jekyll-dash theme.
+ */
+img[src*="img.shields.io"] {
+  max-width: none !important;
+  width: auto !important;
+  height: auto !important;
+  display: inline-block;
+  vertical-align: middle;
+}
