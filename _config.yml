@@ -5,6 +5,8 @@ email: udayshankar.cto@uralstech.in
 description: > 
   Hi! I'm Udayshankar Ravikumar, PCAP and Chief Technology Officer at Urav Advanced Learning Systems Pvt Ltd. This blog is for documentating my open source work.
 
+github_username: Uralstech
+avatar_source: github
 timezone: Asia/Kolkata
 show_excerpts: true
 
@@ -43,7 +45,7 @@ dash:
       icon: square-reddit
       color: orange
     - url: mailto:udayshankar.cto@uralstech.in
-      icon: inbox
+      icon: envelope
       color: indigo
 
 # Build Settings
@@ -55,10 +57,6 @@ plugins:
   - jekyll-paginate
   - jekyll/tagging
   - jekyll-sitemap
-
-# Optional GitHub username (for GitHub avatar integration)
-github_username: Uralstech
-avatar_source: github
 
 # Optional: Exclude from build
 exclude:
