@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My submission for NASA's SpaceApps challenge (2023)"
-tags: [Project,AI,Challenge,Competition]
+tags: [Project,AI,Competition]
 gh-repo: Uralstech/hAI-Spec-NASA-SpaceApps-Challenge
 gh-badge: [star, watch, fork, follow]
 readtime: true
