@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ezr² v0.1.0 HAS BEEN RELEASED!"
-tags: [Project,Open source,CSharp]
+tags: [Project,Open source,C#]
 gh-repo: Uralstech/ezrSquared
 gh-badge: [star, watch, fork, follow]
 readtime: true

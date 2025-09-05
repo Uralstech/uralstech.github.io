@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ezr² development update (May 3, 2024)"
-tags: [Project,Open source,CSharp]
+tags: [Project,Open source,C#]
 gh-repo: Uralstech/ezrSquared
 gh-badge: [star, watch, fork, follow]
 readtime: true

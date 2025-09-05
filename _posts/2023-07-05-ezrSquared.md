@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Easy-to-learn and Practical Interpreted Programming Language for Beginners and Experts Alike"
-tags: [Project,Open source,CSharp]
+tags: [Project,Open source,C#]
 gh-repo: Uralstech/ezrSquared
 gh-badge: [star, watch, fork, follow]
 ---
