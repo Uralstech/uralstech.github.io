@@ -47,7 +47,7 @@ Now, we have to create the [launch daemon](https://support.apple.com/en-in/guide
 I created it at `/Library/LaunchDaemons/com.deskflow.client.plist`:
 
 Paste the following to the file in Nano:
-```plist
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
