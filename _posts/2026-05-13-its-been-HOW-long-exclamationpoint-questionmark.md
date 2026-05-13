@@ -68,7 +68,7 @@ you build a flow by first defining which data loaders it should use. the package
 
 next, you declare the importers you want to use. the package provides 3, one which uses Unity's glTFast to load glTF models, one which uses UniGLTF instead, and one for VRM models, using UniVRM. again, users can build their own importers if needed. i actually wanted to add fbx support, but didn't find any actively maintained Unity packages/plugins for loading fbx models at runtime.
 
-next, you can optionally also add post-processors, both sync and async. the package provides many built in ones, like for assigning an animator controller and avatar, for overriding materials or shaders, and even one which caches models in device storage (useful if you downloaded it from a URL)! there's even conditional post-processors which run other post-processors based on lambda functions!
+next, you can optionally also add post-processors, both sync and async. the package provides many built in ones, like for assigning an animator controller and avatar, for overriding materials or shaders, and even one which caches models in device storage (useful if you downloaded it from a URL)! there's also conditional post-processors which run other post-processors based on lambda functions.
 
 finally, there's also "capabilities". these are interfaces that expose functionality in imported models "guaranteed" by the importer. that is, they are features created by the importer. the package provides support for UniVRM's LookAt and Expressions, and glTF blendshapes through capabilities.
 
@@ -79,7 +79,7 @@ they're officially dead. i first archived ugemini as 1- i don't use it anymore, 
 <blockquote class="twitter-tweet" data-media-max-width="750" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">if you are looking to build client side integrations. I recommend using the Firebase AI logic with App check to protect the key. Unity sdk support was released last year and it works with XR devices as well.</p>&mdash; Thevi Sundaralingam (@Thevi_S) <a href="https://twitter.com/Thevi_S/status/2026303891495911538?ref_src=twsrc%5Etfw">February 24, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 uai.abstraction is pretty funny. i basically lost all need for it *really* quickly. the commit history of the repo lasts literally *two days* (excluding my archive commits).
-with ugemini was archived, uai.abstraction lost half of whatever utility it had, so i decided to officially archive it.
+with ugemini archived, uai.abstraction lost half of whatever utility it had, so i decided to officially archive it.
 
 ## [AIDE-Chip Surrogates](https://github.com/Uralstech/AIDE-Chip-Surrogates)
 
@@ -95,11 +95,14 @@ i felt like i should talk about the games i've played recently-ish, so here goes
 
 ## Celeste
 
-i completed all c-sides in celeste, and got the moonberry! i even made my steam profile public: <https://steamcommunity.com/id/SoullessTomb86/>
+i completed all c-sides, and got the moonberry! i even made my steam profile public: <https://steamcommunity.com/id/SoullessTomb86/>
 
 celeste is such a great game like it's genuinely imo one of THE top 3 games of all time. the soundtrack is unmatched, and the gameplay is so good it makes me forget i died 20k+ times. i cannot even describe what farewell felt like,,, it's just something special. anyways here's me doing old site in 2 minutes 32 seconds
 
 <blockquote class="twitter-tweet" data-media-max-width="750" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">celeste old site 2:32.201 &quot;&quot;&quot;speedrun&quot;&quot;&quot; <a href="https://t.co/0kfUW0fU0K">pic.twitter.com/0kfUW0fU0K</a></p>&mdash; Uday (@uralstechCTO) <a href="https://twitter.com/uralstechCTO/status/2018438362944901248?ref_src=twsrc%5Etfw">February 2, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+> edit: this is my actual best run, at 2:21
+> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9Gikm1QCAOA?si=3D_886ewyQRrEvDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Deadlock
 
