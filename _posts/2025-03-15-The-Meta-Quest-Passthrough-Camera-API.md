@@ -11,6 +11,8 @@ This is a tutorial on how to use the Meta Quest Passthrough Camera API in Unity 
 which is available on GitHub and OpenUPM: <http://uralstech.github.io/UXR.QuestCamera/>
 <!--more-->
 
+> This tutorial is *really* outdated now, please check the package's [Quick Start Guide](https://uralstech.github.io/UXR.QuestCamera/DocSource/QuickStart.html) for updated info.
+
 ## Setup
 
 ### Dependencies
